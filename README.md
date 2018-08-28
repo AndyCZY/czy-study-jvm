@@ -14,3 +14,7 @@
 
 ## JVM内部结构
 ![](https://github.com/andyczy/czy-study-jvm/blob/master/img/JVM%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84.png "JVM内部结构")
+
+## Java class执行过程 
+![](https://github.com/andyczy/czy-study-jvm/blob/master/img/Java%20class%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B.png "Java class执行过程")
+
