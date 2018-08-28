@@ -18,3 +18,5 @@
 ## Java class执行过程 
 ![](https://github.com/andyczy/czy-study-jvm/blob/master/img/Java%20class%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B.png "Java class执行过程")
 
+## 类加载器两种类型
+![](https://github.com/andyczy/czy-study-jvm/blob/master/img/%E4%B8%A4%E7%A7%8D%E7%B1%BB%E5%9E%8B%E7%9A%84%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8.png)
